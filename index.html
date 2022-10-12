@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haptic data exporter</title>
+    <link rel="shortcut icon" href="./imgs/hapticTitle.jpg">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/jszip.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+<!-- The Modal -->
+<div class="modal fade modal-lg" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Jak použít Haptic data exporter</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+     <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indikator v info galerii -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+  </div>
+
+  <!-- Info galerie -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="./imgs/info1.png" style="height: 550px" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="./imgs/info2.png" style="height: 550px" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="./imgs/info3.png" style="height: 550px" class="d-block w-100">
+    </div>
+  </div>
+
+  <!-- Šipky v info galerii -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>
+
+    </div>
+  </div>
+</div>
+
+<!--     Footer a refresh              -->
+  <div class="footer">
+	<a href="#section1" onclick="refresh()"><i class="refresh fa fa-refresh" style="font-size:36px;"></i></a>
+    <div class="copyright">© Designed by Patrik Fiala</div>
+  </div>
+<!--     1. sekce               -->
+  <div id="section1" class="container-fluid">
+    <h1>Krok 1</h1>
+    <p>Vyberte projekt</p> <div class="spinner-border text-light" style="visibility: hidden"></div>
+	<div class="infoBtn"> 
+	<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-info-circle" data-bs-toggle="modal" data-bs-target="#myModal" viewBox="0 0 16 16">
+  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+  <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+</svg>
+</div>
+    <div class="images">
+      <button type="button" class="btn dropdown-toggle border-0" data-bs-toggle="dropdown" style="width: 170px;">
+        <div class="twoImages">
+        <img class="logoButton" src="./imgs/skoda_logo.png">
+        <img class="logoButton" style="position: relative; right: 250px;" src="./imgs/ww_logo.png">
+        </div>
+      </button>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#" onclick="sendProject('mibnoBtns')">MIB bez tlačítek (1 soubor)</a></li>
+        <li><a class="dropdown-item" href="#" onclick="sendProject('mibwBtns')">MIB s tlačítky (2 soubory)</a></li>
+      </ul>
+        <a href="#"><img class="logoButton" src="./imgs/jlr_logo.png" onclick="sendProject('jlr')"></a>
+        <a href="#"><img class="logoButton" style="width: 310px; height: 110;" src="./imgs/ford_logo.png" onclick="sendProject('ford')" ></a>
+  </div>
+  </div>
+<!--     2. sekce               -->
+  <div id="section2" class="container-fluid">
+    <h1>Krok 2</h1>
+    <p>Přetáhněte najednou všechny soubory potřebné k danému projektu</p>
+    <div>
+        <article>
+            <div id="holder">
+              <div class="uploadAnimation">
+                <p>Sem přetáhněte soubory</p>
+                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-cloud-upload-fill" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M8 0a5.53 5.53 0 0 0-3.594 1.342c-.766.66-1.321 1.52-1.464 2.383C1.266 4.095 0 5.555 0 7.318 0 9.366 1.708 11 3.781 11H7.5V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11h4.188C14.502 11 16 9.57 16 7.773c0-1.636-1.242-2.969-2.834-3.194C12.923 1.999 10.69 0 8 0zm-.5 14.5V11h1v3.5a.5.5 0 0 1-1 0z"/>
+                </svg>
+              </div>
+            </div> 
+            <p id="errorNumFiles">Neshoduje se počet nahraných souborů s počtem souborů potřebných k danému projektu.<br> 
+            Zkuste to znovu a nebo refreshněte program a zvolte jiný projekt.</p>
+            <p id="errorWrongFiles">Nahráli jste nesprávné soubory. Nahrajte soubory pro zvolený projekt.</p>
+          </article>
+      </div>
+  </div>
+<!--     3. sekce               -->
+  <div id="section3" class="container-fluid" style="width: 100%">
+    <h1>Zpracování</h1> 
+    <p>Zde jsou nahrané soubory, brzo z nich uděláme výsledek</p>
+    <div class="row w-100 p-3 mx-auto">
+      <div class="col-sm-4  text-black p-3 text-center">
+        <h3 id="fileName1">File 1</h3>
+      </div>
+      <div class="col-sm-4 text-black p-3 text-center">
+        <h3 id="fileName2">File 2</h3>
+      </div>
+      <div class="col-sm-4 text-black p-3 text-center">
+        <h3 id="fileName3">File 3</h3>
+      </div>
+      <div class="col-sm-4 bg-dark text-white p-3 border">
+        <p id="file1"></p>
+      </div>
+      <div class="col-sm-4 bg-dark text-white p-3 border">
+        <p id="file2">...</p>
+      </div>
+      <div class="col-sm-4 bg-dark text-white p-3 border">
+        <p id="file3">...</p>
+      </div>
+    </div>
+  </div>
+<!--     4. sekce               -->
+  <div id="section4" class="container-fluid">
+    <h1 style="color: #fff;">Výsledek</h1>
+    <p style="color: #fff;">Zde je výsledek transformace. Výsledek zkopírujte tlačítkem a vložte do Excelu.</p>
+    <div class="container p-3 " style="max-width: 300px; z-index: -1">
+      <div id="accordion">
+      </div>
+    </div>
+	<div class="invisibleMargin"></div>
+  </div>
+        
+<script src="main.js"></script>
+</body>
+</html>
