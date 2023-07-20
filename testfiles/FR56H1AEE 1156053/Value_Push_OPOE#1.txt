@@ -1,0 +1,19 @@
+#Property Analyse-Date=2023-07-17 09:01:46
+\BEGIN:{Header}
+[PropertyName&-&DATA_STRING&1];[PropertyType&-&DATA_STRING&1];[PropertyValue&-&DATA_STRING&1]
+\END
+\BEGIN:{Data}
+SN; PUBLIC; FR56H1AEE 1156053
+Operation_Force_Left; PUBLIC; 8.5058
+Operation_Force_Right; PUBLIC; 4.3047
+Push_Stroke_Travel_Left; PUBLIC; 0.9545
+Push_Stroke_Travel_Right; PUBLIC; 0.8317
+Click_Ratio_Left; PRIVATE; 10.3600
+Click_Ratio_Right; PRIVATE; -65.2500
+Total_Travel_Left; PUBLIC; 1.2657
+Total_Travel_Right; PUBLIC; 1.1490
+Diference_Push_Left; PUBLIC; 0.1297
+Diference_Push_Right; PUBLIC; 0.0583
+\END
+\BEGIN:{Attributes}
+\END

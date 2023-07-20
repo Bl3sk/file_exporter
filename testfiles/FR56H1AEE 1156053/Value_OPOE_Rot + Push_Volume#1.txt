@@ -1,0 +1,17 @@
+#Property Analyse-Date=2023-07-17 08:59:44
+\BEGIN:{Header}
+[PropertyName&-&DATA_STRING&1];[PropertyType&-&DATA_STRING&1];[PropertyValue&-&DATA_STRING&1]
+\END
+\BEGIN:{Data}
+SN; PUBLIC; FR56H1AEE 1156053
+Free_Play_Left; PUBLIC; 0.1433
+Free_Play_Right; PUBLIC; 0.1178
+Ring_Rotation_Torque_Left; PUBLIC; 17.1570
+Ring_Rotation_Torque_Right; PUBLIC; 18.2370
+Operation_Force_Volume; PUBLIC; 3.902
+Total_Way_Volume; PUBLIC; 0.762
+Push_Stroke_travel_Volume; PUBLIC; 0.400
+Diference_Push_Volume; PRIVATE; 0.0090
+\END
+\BEGIN:{Attributes}
+\END

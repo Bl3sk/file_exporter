@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<BatXMLReport>
+    <Test DateTime="2022-11-23 10:12:25" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA PUSH" model="RV4BXEAEA" SN="3705">
+        <Component Name="AnalyseButton_Phone">
+            <Attribute Name="F1">
+                <Value>2.815</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.343</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.815</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.523</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.601</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.283</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.389</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_App">
+            <Attribute Name="F1">
+                <Value>2.809</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.371</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.809</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.512</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.614</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.252</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.397</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Car">
+            <Attribute Name="F1">
+                <Value>2.897</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.285</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.897</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.556</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.587</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.303</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.415</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Radio">
+            <Attribute Name="F1">
+                <Value>2.813</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.301</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.813</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.538</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.664</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.281</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.423</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Media">
+            <Attribute Name="F1">
+                <Value>2.826</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.269</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.826</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.551</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.679</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.339</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.468</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Menu">
+            <Attribute Name="F1">
+                <Value>2.837</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.339</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.837</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.528</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.652</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.310</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.470</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-01-12 14:59:08" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA PUSH" model="RV4BXEAEA" SN="9527">
+        <Component Name="AnalyseButton_Phone">
+            <Attribute Name="F1">
+                <Value>2.950</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.366</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.950</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.537</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.581</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.262</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.396</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_App">
+            <Attribute Name="F1">
+                <Value>3.007</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.345</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.007</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.553</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.615</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.310</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.442</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Car">
+            <Attribute Name="F1">
+                <Value>3.060</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.375</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.060</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.551</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.660</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.331</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.475</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Radio">
+            <Attribute Name="F1">
+                <Value>3.334</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.695</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.334</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.492</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.687</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.268</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.382</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Media">
+            <Attribute Name="F1">
+                <Value>3.261</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.610</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.261</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.506</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.695</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.284</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.426</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Menu">
+            <Attribute Name="F1">
+                <Value>3.288</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.565</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.288</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.524</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.688</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.289</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.429</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-02-08 09:40:35" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA PUSH" model="RV4BXEAEA" SN="13376">
+        <Component Name="AnalyseButton_Phone">
+            <Attribute Name="F1">
+                <Value>3.083</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.555</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.083</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.496</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.600</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.274</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.383</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_App">
+            <Attribute Name="F1">
+                <Value>3.164</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.579</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.164</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.501</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.621</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.301</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.400</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Car">
+            <Attribute Name="F1">
+                <Value>3.178</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.553</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.178</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.511</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.603</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.309</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.413</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Radio">
+            <Attribute Name="F1">
+                <Value>3.240</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.635</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.240</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.495</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.705</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.316</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.440</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Media">
+            <Attribute Name="F1">
+                <Value>3.278</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.629</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.278</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.503</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.730</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.317</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.451</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Menu">
+            <Attribute Name="F1">
+                <Value>3.165</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.683</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.165</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.468</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.716</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.294</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.433</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-03-08 10:09:15" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA PUSH" model="RV4BXEAEA" SN="15689">
+        <Component Name="AnalyseButton_Phone">
+            <Attribute Name="F1">
+                <Value>3.200</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.799</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.200</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.438</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.586</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.239</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.368</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_App">
+            <Attribute Name="F1">
+                <Value>3.320</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.794</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.320</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.460</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.593</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.274</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.362</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Car">
+            <Attribute Name="F1">
+                <Value>3.237</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.640</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.237</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.493</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.595</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.287</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.394</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Radio">
+            <Attribute Name="F1">
+                <Value>3.383</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.773</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.383</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.476</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.708</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.309</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.433</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Media">
+            <Attribute Name="F1">
+                <Value>3.219</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.653</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.219</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.486</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.699</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.301</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.433</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Menu">
+            <Attribute Name="F1">
+                <Value>3.262</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.842</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.262</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.435</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.702</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.325</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.448</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-04-06 14:41:30" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA PUSH" model="RV4BXEAEA" SN="20762">
+        <Component Name="AnalyseButton_Phone">
+            <Attribute Name="F1">
+                <Value>3.185</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.599</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.185</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.498</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.593</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.283</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.385</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_App">
+            <Attribute Name="F1">
+                <Value>3.105</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.499</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.105</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.517</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.572</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.281</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.406</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Car">
+            <Attribute Name="F1">
+                <Value>3.249</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.613</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.249</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.504</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.682</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.338</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.460</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Radio">
+            <Attribute Name="F1">
+                <Value>3.123</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.485</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.123</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.525</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.685</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.318</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.448</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Media">
+            <Attribute Name="F1">
+                <Value>3.006</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.413</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.006</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.530</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.702</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.317</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.463</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Menu">
+            <Attribute Name="F1">
+                <Value>3.082</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.751</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.082</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.432</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.680</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.311</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.441</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-07-19 09:32:31" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA PUSH" model="RV4BXEAEA" SN="29450">
+        <Component Name="AnalyseButton_Phone">
+            <Attribute Name="F1">
+                <Value>3.091</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.614</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.091</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.478</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.586</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.224</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.363</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_App">
+            <Attribute Name="F1">
+                <Value>3.135</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.570</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.135</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.499</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.578</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.237</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.359</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Car">
+            <Attribute Name="F1">
+                <Value>3.088</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.518</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>3.088</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.509</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.587</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.245</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.376</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Radio">
+            <Attribute Name="F1">
+                <Value>2.978</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.391</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.978</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.533</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.636</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.261</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.385</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Media">
+            <Attribute Name="F1">
+                <Value>2.973</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.352</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.973</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.545</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.694</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.297</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.430</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Menu">
+            <Attribute Name="F1">
+                <Value>2.979</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F2">
+                <Value>1.455</Value>
+                <Nominal>1.500</Nominal>
+                <LowTol>0.225</LowTol>
+                <UpTol>0.225</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="F5">
+                <Value>2.979</Value>
+                <Nominal>3.000</Nominal>
+                <LowTol>0.450</LowTol>
+                <UpTol>0.450</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Forward-Snap-Rate">
+                <Value>0.512</Value>
+                <Nominal>0.500</Nominal>
+                <LowTol>0.100</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S1">
+                <Value>0.668</Value>
+                <Nominal>0.600</Nominal>
+                <LowTol>0.090</LowTol>
+                <UpTol>0.100</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>1.295</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.180</LowTol>
+                <UpTol>0.180</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S5">
+                <Value>1.418</Value>
+                <Nominal>1.200</Nominal>
+                <LowTol>0.000</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+    </Test>
+</BatXMLReport>

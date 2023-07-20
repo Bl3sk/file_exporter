@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<BatXMLReport>
+    <Test DateTime="2022-11-23 10:18:08" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA ROTATION" CW_Left="11.0500" CCW_Left="7.5000" CW_Right="15.8200" CCW_Right="6.8900" model="RV4BXEAEA" SN="3705">
+        <Component Name="AnalyseButton_Encoder L 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>4.025</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.489</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.636</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW L">
+            <Attribute Name="CW_Left">
+                <Value>11.05</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW L">
+            <Attribute Name="CCW_Left">
+                <Value>7.50</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Encoder R 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>3.983</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.454</Value>
+                <Nominal>0.300</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.592</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW R">
+            <Attribute Name="CW_Right">
+                <Value>15.82</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW R">
+            <Attribute Name="CCW_Right">
+                <Value>6.89</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-02-08 09:46:27" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA ROTATION" CW_Left="10.5900" CCW_Left="11.4700" CW_Right="17.2600" CCW_Right="4.7900" model="RV4BXEAEA" SN="13376">
+        <Component Name="AnalyseButton_Encoder L 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>3.856</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.517</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.672</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW L">
+            <Attribute Name="CW_Left">
+                <Value>10.59</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW L">
+            <Attribute Name="CCW_Left">
+                <Value>11.47</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Encoder R 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>4.034</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.469</Value>
+                <Nominal>0.300</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.608</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW R">
+            <Attribute Name="CW_Right">
+                <Value>17.26</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW R">
+            <Attribute Name="CCW_Right">
+                <Value>4.79</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-03-08 10:15:27" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA ROTATION" CW_Left="16.5500" CCW_Left="2.1800" CW_Right="16.3100" CCW_Right="2.2100" model="RV4BXEAEA" SN="15689">
+        <Component Name="AnalyseButton_Encoder L 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>3.936</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.492</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.648</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW L">
+            <Attribute Name="CW_Left">
+                <Value>16.55</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW L">
+            <Attribute Name="CCW_Left">
+                <Value>2.18</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Encoder R 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>3.781</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.464</Value>
+                <Nominal>0.300</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.614</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW R">
+            <Attribute Name="CW_Right">
+                <Value>16.31</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW R">
+            <Attribute Name="CCW_Right">
+                <Value>2.21</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-04-06 15:16:53" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA ROTATION" CW_Left="23.1700" CCW_Left="4.5200" CW_Right="23.6900" CCW_Right="4.4900" model="RV4BXEAEA" SN="20762">
+        <Component Name="AnalyseButton_Encoder L 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value />
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value />
+                <Nominal>0.400</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value />
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW L">
+            <Attribute Name="CW_Left">
+                <Value>23.17</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW L">
+            <Attribute Name="CCW_Left">
+                <Value>4.52</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Encoder R 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value />
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="S2">
+                <Value />
+                <Nominal>0.300</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value />
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW R">
+            <Attribute Name="CW_Right">
+                <Value>23.69</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW R">
+            <Attribute Name="CCW_Right">
+                <Value>4.49</Value>
+                <Nominal />
+                <LowTol />
+                <UpTol />
+                <Class>0</Class>
+                <Alias />
+            </Attribute>
+        </Component>
+    </Test>
+    <Test DateTime="2023-07-19 09:38:47" CurrentRepeat="0" PushF="6" PushV="2" akcelerace="50" decelerace="50" V_Rot="10" MaxF="25" opakovani="4" vzdalenost="0" smer="1,1,0" model2="RV4BXEAEA ROTATION" CW_Left="11.5800" CCW_Left="8.5200" CW_Right="14.4700" CCW_Right="9.8800" model="RV4BXEAEA" SN="29450">
+        <Component Name="AnalyseButton_Encoder L 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>3.901</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.482</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.621</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW L">
+            <Attribute Name="CW_Left">
+                <Value>11.58</Value>
+                <Nominal></Nominal>
+                <LowTol></LowTol>
+                <UpTol></UpTol>
+                <Class>0</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW L">
+            <Attribute Name="CCW_Left">
+                <Value>8.52</Value>
+                <Nominal></Nominal>
+                <LowTol></LowTol>
+                <UpTol></UpTol>
+                <Class>0</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="AnalyseButton_Encoder R 6.5&apos;&apos;">
+            <Attribute Name="F1">
+                <Value>4.123</Value>
+                <Nominal>4.000</Nominal>
+                <LowTol>0.600</LowTol>
+                <UpTol>0.600</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="S2">
+                <Value>0.475</Value>
+                <Nominal>0.300</Nominal>
+                <LowTol>0.150</LowTol>
+                <UpTol>0.250</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+            <Attribute Name="Total-Way">
+                <Value>0.607</Value>
+                <Nominal>0.400</Nominal>
+                <LowTol>0.200</LowTol>
+                <UpTol>0.500</UpTol>
+                <Class>1</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CW R">
+            <Attribute Name="CW_Right">
+                <Value>14.47</Value>
+                <Nominal></Nominal>
+                <LowTol></LowTol>
+                <UpTol></UpTol>
+                <Class>0</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+        <Component Name="SCALA 65 CCW R">
+            <Attribute Name="CCW_Right">
+                <Value>9.88</Value>
+                <Nominal></Nominal>
+                <LowTol></LowTol>
+                <UpTol></UpTol>
+                <Class>0</Class>
+                <Alias></Alias>
+            </Attribute>
+        </Component>
+    </Test>
+</BatXMLReport>

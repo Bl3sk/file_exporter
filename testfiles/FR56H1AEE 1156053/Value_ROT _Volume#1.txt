@@ -1,0 +1,11 @@
+#Property Analyse-Date=2022-08-04 08:43:46
+\BEGIN:{Header}
+[PropertyName&-&DATA_STRING&1];[PropertyType&-&DATA_STRING&1];[PropertyValue&-&DATA_STRING&1]
+\END
+\BEGIN:{Data}
+SN; PUBLIC; FR56H1AEE 1156053
+Free_Play_Volume; PUBLIC; 0.0724
+Ring_Rotation_Torque_Volume; PUBLIC; 15.7030
+\END
+\BEGIN:{Attributes}
+\END
